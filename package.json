@@ -31,10 +31,10 @@
     "eslint-plugin-react": "^3.5.1",
     "node-readme": "^0.1.9",
     "rackt-cli": "^0.4.0",
-    "algoliasearch": "^3.8.1"
+    "algoliasearch": "^3.13.0"
   },
   "peerDependencies": {
-    "react": "^0.13.3"
+    "react": "^0.14.7"
   },
   "tags": [
     "algolia",
